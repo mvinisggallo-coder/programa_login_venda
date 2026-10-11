@@ -83,16 +83,8 @@
       caso 2:
       escreva("Venda Finalizada!")
       leia(opcao)
-    }
-    
-    // COM A VENDA FINALIZADA AGORA CHEGOU A HORA DO PAGAMENTO.
-    // PRÓXIMOS PASSOS
-    // - CALCULAR O PREÇO TOTAL DOS PRODUTOS QUE O USUÁRIO ESCOLHEU 
-    // - VERIFICAR A FORMA DE PAGAMENTO
-    // - CONCLUIR A COMPRA
-
-    }
-          
+        }
+      }      
     }
 
   /* Dica de programação: sempre que perceber que está copiando e colando a mesma estrutura condicional,
