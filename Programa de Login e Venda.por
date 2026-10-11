@@ -50,6 +50,6 @@
     }  
     }
   /* Dica de programação: sempre que perceber que está copiando e colando a mesma estrutura condicional,
-   procure reorganizar o algoritmo para separar a validação dos dados da execução da ação.
+   procure reorganizar o algoritmo para separar a validação dos dados da execução da ação.*/
 
 
